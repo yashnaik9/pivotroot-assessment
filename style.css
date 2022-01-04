@@ -407,6 +407,7 @@ button.book-now {
 
     .syllabus-list {
         grid-template-columns: none;
+        grid-gap: 0;
     }
 
     .course-syllabus h4 {
@@ -419,6 +420,7 @@ button.book-now {
 
     .syllabus-list ul li.topic-heading {
         font-size: 1.25rem;
+        padding-top: 10px;
     }
 
     .main-content-data h3:first-child,
